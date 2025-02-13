@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Lua bug related to nil values in arithmetic operations. The bug arises from Lua's dynamic typing and how it handles nil values in expressions.  The solution showcases a more robust way to handle potential nil values, improving code reliability and preventing unexpected behavior.
